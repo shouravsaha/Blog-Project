@@ -32,9 +32,7 @@
                 @endcan
 
                 @can('view-user-dashboard')
-                <button class="ml-4 py-2 px-4 border rounded-md text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-indigo-100">
-                    New Button
-                </button>
+
                 @endcan
             </div>
 
